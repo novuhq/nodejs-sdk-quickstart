@@ -7,7 +7,7 @@ your own code. By doing so, you can adapt and utilize
 the functions as needed within your project. */
 
 /* Run `npm install @novu/node` to add novu as a dependency 
-(make sure you inicialized the project by running `npm init`) */
+(make sure you initialize the project by running `npm init`) */
 
 // <-----------------Importing Novu Into Your APP----------------->
 
