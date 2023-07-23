@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sdk-quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novuhq/nodejs-sdk-quickstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novuhq/nodejs-sdk-quickstart/issues"
+  },
+  "homepage": "https://github.com/novuhq/nodejs-sdk-quickstart#readme",
+  "dependencies": {
+    "@novu/node": "^0.16.4"
+  }
+}

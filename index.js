@@ -13,7 +13,7 @@ the functions as needed within your project. */
 
 import { Novu } from '@novu/node';
 
-const novu = new Novu('<API_KEY>');
+const novu = new Novu('NOVU_API_KEY');
 
 // <-----------------Create a subscriber----------------->
 
